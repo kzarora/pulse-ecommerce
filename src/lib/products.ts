@@ -47,7 +47,7 @@ export const products: Product[] = [
     category: "Accessories",
     rating: 4.6,
     image:
-      "https://images.unsplash.com/photo-1591290619762-d3f4f3f0d7a3?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1615526675159-e248c3021d3f?auto=format&fit=crop&w=900&q=80",
   },
   {
     id: "arora-buds-pro",
